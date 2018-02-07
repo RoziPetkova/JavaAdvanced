@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="oopA01InterfacesSndAbstractions/src"/>
+	<classpathentry kind="src" path="oopA02Generics/src"/>
+	<classpathentry kind="src" path="oopA03IeratorsAndComparators/src"/>
+	<classpathentry kind="src" path="oopA04EnumsAndAnnotations/src"/>
+	<classpathentry kind="src" path="oopA05Reflection/src"/>
+	<classpathentry kind="src" path="oopA06UnitTest/src/main/java"/>
+	<classpathentry kind="src" path="oopA06UnitTest/src/test/java"/>
+	<classpathentry kind="src" path="oopA06UnitTesting/src"/>
+	<classpathentry kind="src" path="oopA07ExercisesLogger/Logger"/>
+	<classpathentry kind="src" path="oopA07ExercisesLogger/src"/>
+	<classpathentry kind="src" path="oopA07OpenCloseAndLiskovSubstitutions/src"/>
+	<classpathentry kind="src" path="oopA08InterfacesSegragationAndDependensyInversion/src"/>
+	<classpathentry kind="src" path="oopA09ObjetCommunicationAndEvents/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="oopA01InterfacesSndAbstractions/bin"/>
+</classpath>
